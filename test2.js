@@ -8,4 +8,4 @@ var d = 5;
 var g = 5552;
 //split sdfsdf
 // Dodatečný upgrade druheho
-//toto neignoruji
+//toto neignoruji 2
